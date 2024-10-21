@@ -16,5 +16,3 @@ A **full-stack mobile application** built using the **MERN (MongoDB, Express, Re
 - **Backend**: [Express.js](https://expressjs.com/), [Node.js](https://nodejs.org/)
 - **Database**: [MongoDB](https://www.mongodb.com/)
 - **Authentication**: JSON Web Token (JWT)
-
-## Project Structure
